@@ -1,0 +1,6 @@
+@Avia_HostAddress = http://localhost:5004
+
+GET {{Avia_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
