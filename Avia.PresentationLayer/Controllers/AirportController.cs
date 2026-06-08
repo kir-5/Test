@@ -1,6 +1,5 @@
 ﻿using Avia.BusinessLogicLayer.Interfaces;
 using Avia.BusinessLogicLayer.Models;
-using Avia.BusinessLogicLayer.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Avia.Controllers

@@ -19,11 +19,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Using Include="Xunit" />
+    <ProjectReference Include="..\Avia.PresentationLayer\Avia.PresentationLayer.csproj" />
   </ItemGroup>
 
-	<ItemGroup>
-		<ProjectReference Include="..\Avia\Avia.PresentationLayer.csproj" />
-	</ItemGroup>
+  <ItemGroup>
+    <Using Include="Xunit" />
+  </ItemGroup>
 
 </Project>
